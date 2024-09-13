@@ -161,4 +161,3 @@ Feel free to contribute to the project or provide feedback via issues or pull re
 
 ---
 
-This README provides a comprehensive overview of the gesture-driven car control project, including setup instructions, code functionality, and potential future enhancements.
